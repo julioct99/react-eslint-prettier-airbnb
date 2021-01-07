@@ -1,3 +1,5 @@
+## create-react-app boilerplate with eslint, prettier and airbnb style guide
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
